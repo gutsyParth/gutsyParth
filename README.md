@@ -112,39 +112,62 @@
 
 ---
 
-## 🔥 **Featured Projects**
+## 🔥 Featured Projects  
+
+### 🧠 My AI — AI Video Conferencing  
+[🔗 Live Demo](#) • [⭐ GitHub Stars](#)
+
+**My AI Demo**  
+Real-time AI agents • Auto transcripts • Contextual chat • Low-latency video  
+
+**Tech Stack:**  
+Next.js 15 • React 19 • Stream SDK • OpenAI • Tailwind CSS • Shadcn/UI  
+
+---
+
+## 🎓 Education  
+
+**B.Tech – Computer Science & Engineering**  
+Dr. A.I.T.H. Kanpur (2020–2024)  
+📈 CGPA: 8.41 • Top 5%  
+
+![CBSE 12th - 97%](https://img.shields.io/badge/CBSE%2012th-97%25-F39C12?style=flat&logo=school&logoColor=white)
+![CBSE 10th - 10 CGPA](https://img.shields.io/badge/CBSE%2010th-10%20CGPA-F39C12?style=flat&logo=school&logoColor=white)
+
+---
+
+## 🏆 Battle Achievements  
+
+![Codeforces Specialist](https://img.shields.io/badge/Codeforces-Specialist-1F73FF?style=for-the-badge&logo=codeforces&logoColor=white)
+![CodeChef 4⭐](https://img.shields.io/badge/CodeChef-4*-FF5722?style=for-the-badge&logo=codechef&logoColor=white)
+![LeetCode 1000+](https://img.shields.io/badge/LeetCode-1000%2B-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)
+![PwC Hackathon Top 30](https://img.shields.io/badge/PwC%20Hackathon-Top%2030-007ACC?style=for-the-badge&logo=pwc&logoColor=white)
+![Flipkart Grid Pre-Finalist](https://img.shields.io/badge/Flipkart%20Grid-Pre%20Finalist-E74C3C?style=for-the-badge&logo=flipkart&logoColor=white)
+![VW i.mobilothon Pre-Finalist](https://img.shields.io/badge/VW%20i.mobilothon-Pre%20Finalist-192841?style=for-the-badge&logo=volkswagen&logoColor=white)
+
+---
+
+## 📫 Let's Connect!  
+
+💌 **Email:** [parth.10june@gmail.com](mailto:parth.10june@gmail.com)  
+🌐 **Portfolio:** [parthyadav.dev](https://parthyadav.dev)  
+🐦 **Twitter:** [@parthyadav10june](https://twitter.com/parthyadav10june)  
+💼 **LinkedIn:** [in/parthyadav10june](https://linkedin.com/in/parthyadav10june)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=gutsyParth&color=007ACC&style=flat-square)
+
+---
 
 <div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Built+with+%E2%9D%A4%EF%B8%8F+and+React;Next.js+%26+Tailwind+CSS;Stay+Creative%2C+Keep+Coding!" alt="Typing SVG"/>
 
-### **[My AI - AI Video Conferencing](https://github.com/gutsyParth/my-ai)**  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-ai.parthyadav.dev)
-[![GitHub Stars](https://img.shields.io/github/stars/gutsyParth/my-ai?style=social)](https://github.com/gutsyParth/my-ai)
+  <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/236603315-c0c182f5-4d9e-4f5f-9d8a-8e7b8e8f8e8f.png" width="800" alt="My AI Demo"/>
+  <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Buy%20Me%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 
-**Real-time AI agents • Auto transcripts • Contextual chat • Low-latency video**
+  <br/><br/>
+  © 2025 **Parth Yadav** • Made with ☕ & 🎨  
 
 </div>
-
-```javascript
-Next.js 15 • React 19 • Stream SDK • OpenAI • Tailwind CSS • Shadcn/ui
-🎓 Education
-B.Tech Computer Science & Engineering, Dr. A.I.T.H. Kanpur
-2020 - 2024 • CGPA: 8.41 • Top 5%
-<img src="https://img.shields.io/badge/CBSE%2012th-97%25-F39C12?style=flat&logo=school&logoColor=white" />
-<img src="https://img.shields.io/badge/CBSE%2010th-10%20CGPA-F39C12?style=flat&logo=school&logoColor=white" />
-
-🏆 Battle Achievements
-<img src="https://img.shields.io/badge/Codeforces-Specialist-1F73FF?style=for-the-badge&logo=codeforces&logoColor=white" /> <img src="https://img.shields.io/badge/CodeChef-4*-FF5722?style=for-the-badge&logo=codechef&logoColor=white" /> <img src="https://img.shields.io/badge/LeetCode-1000%2B-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" /> <img src="https://img.shields.io/badge/PwC%20Hackathon-Top%2030-007ACC?style=for-the-badge&logo=pwc&logoColor=white" /> <img src="https://img.shields.io/badge/Flipkart%20Grid-Pre%20Finalist-E74C3C?style=for-the-badge&logo=flipkart&logoColor=white" /> <img src="https://img.shields.io/badge/VW%20i.mobilothon-Pre%20Finalist-192841?style=for-the-badge&logo=volkswagen&logoColor=white" />
-📫 Let's Connect!
-💌 Email : parth.10june@gmail.com
-🌐 Portfolio : parthyadav.dev
-🐦 Twitter : @parthyadav10june
-💼 LinkedIn : in/parthyadav10june
-<img src="https://komarev.com/ghpvc/?username=gutsyParth&color=007ACC&style=flat-square" alt="Visitor Count"/>
-
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Built+with+%E2%9D%A4%EF%B8%8F+and+React;Next.js+%26+Tailwind+CSS;Stay+Creative%2C+Keep+Coding!" alt="Typing SVG"/> <br/> <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" /> <img src="https://img.shields.io/badge/Buy%20Me%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-<br/><br/>
-© 2025 Parth Yadav • Made with ☕ & 🎨
-
-</div> ```
