@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthyadav10june)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gutsyParth)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthyadav10june)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=globe&logoColor=white)](https://parthyadav.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge nong&logo=globe&logoColor=white)](https://parthyadav.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth.10june@gmail.com)
 
 </div>
@@ -40,16 +40,16 @@
 
 <div align="center">
 
-[![Parth's Stats](https://github-readme-stats.vercel.app/api?username=parthyadav10june&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Parth's Stats](https://github-readme-stats.vercel.app/api?username=gutsyParth&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthyadav10june&layout=compact&theme=dark&hide_border=true&title_color=007ACC&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gutsyParth&layout=compact&theme=dark&hide_border=true&title_color=007ACC&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=parthyadav10june&theme=dark&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=gutsyParth&theme=dark&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthyadav10june&theme=gruvbox&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gutsyParth&theme=gruvbox&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -165,9 +165,9 @@
 
 <div align="center">
 
-### **[My AI - AI Video Conferencing](https://github.com/parthyadav10june/my-ai)** 
+### **[My AI - AI Video Conferencing](https://github.com/gutsyParth/my-ai)** 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-ai.parthyadav.dev)
-[![GitHub Stars](https://img.shields.io/github/stars/parthyadav10june/my-ai?style=social)](https://github.com/parthyadav10june/my-ai)
+[![GitHub Stars](https://img.shields.io/github/stars/gutsyParth/my-ai?style=social)](https://github.com/gutsyParth/my-ai)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/236603315-c0c182f5-4d9e-4f5f-9d8a-8e7b8e8f8e8f.png" width="800" alt="My AI Demo"/>
@@ -184,35 +184,41 @@ Developer Portfolio
 
 Smooth animations • Dark/Light mode • Interactive showcases
 React 19 • Tailwind CSS • Framer Motion • Vite • Lucide React
-🎓 Education
 
+🎓 Education
 B.Tech Computer Science & Engineering
 Dr. A.P.J. Abdul Kalam Technical University
 2020 - 2024 • CGPA: 8.41 • Top 5%
 <img src="https://img.shields.io/badge/CBSE%2012th-97%25-F39C12?style=flat&logo=school&logoColor=white" />
 <img src="https://img.shields.io/badge/CBSE%2010th-10%20CGPA-F39C12?style=flat&logo=school&logoColor=white" />
-🏆 Battle Achievements
 
-<img src="https://img.shields.io/badge/Codeforces-Specialist-1F73FF?style=for-the-badge&#x26;logo=codeforces&#x26;logoColor=white" alt="Codeforces">
-<img src="https://img.shields.io/badge/CodeChef-4*-FF5722?style=for-the-badge&#x26;logo=codechef&#x26;logoColor=white" alt="CodeChef">
-<img src="https://img.shields.io/badge/LeetCode-1000%2B-FFA500?style=for-the-badge&#x26;logo=leetcode&#x26;logoColor=white" alt="LeetCode">
-<img src="https://img.shields.io/badge/PwC%20Hackathon-Top%2030-007ACC?style=for-the-badge&logo=pwc&logoColor=white" />
+🏆 Battle Achievements
+<img src="https://img.shields.io/badge/Codeforces-Specialist-1F73FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+<img src="https://img.shields.io/badge/CodeChef-4*-FF5722?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+<img src="https://img.shields.io/badge/LeetCode-1000%2B-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+<img srcvarrho="https://img.shields.io/badge/PwC%20Hackathon-Top%2030-007ACC?style=for-the-badge&logo=pwc&logoColor=white" />
 <img src="https://img.shields.io/badge/Flipkart%20Grid-Pre%20Finalist-E74C3C?style=for-the-badge&logo=flipkart&logoColor=white" />
 <img src="https://img.shields.io/badge/VW%20i.mobilothon-Pre%20Finalist-192841?style=for-the-badge&logo=volkswagen&logoColor=white" />
+
 📫 Let's Connect!
+
 💌 Email     : parth.10june@gmail.com
 📱 WhatsApp  : +91 8707318794
 📍 Location  : Uttar Pradesh, India
 🌐 Portfolio : parthyadav.dev
 🐦 Twitter   : @parthyadav10june
 💼 LinkedIn  : in/parthyadav10june
-<img src="https://komarev.com/ghpvc/?username=parthyadav10june&#x26;color=007ACC&#x26;style=flat-square" alt="Visitor Count">
-
+<img src="https://komarev.com/ghpvc/?username=gutsyParth&color=007ACC&style=flat-square" alt="Visitor Count">
 Open for: Freelance • Full-time • Open Source • Mentorship
-<img src="https://img.shields.io/badge/X-000?style=for-the-badge&#x26;logo=x&#x26;logoColor=white" alt="Twitter">
-<img src="https://img.shields.io/badge/Buy%20Me%20Coffee-FFDD00?style=for-the-badge&#x26;logo=buy-me-a-coffee&#x26;logoColor=black" alt="Buy Me Coffee">
-⭐ Star this repo if you found it helpful!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&#x26;size=24&#x26;pause=1000&#x26;color=007ACC&#x26;center=true&#x26;vCenter=true&#x26;width=600&#x26;lines=Built+with+%E2%9D%A4%EF%B8%8F+and+React;+Next.js+%26+Tailwind+CSS;+Stay+Creative%2C+Keep+Coding%21" alt="Typing SVG">
+  <img src="https://img.shields.io/badge/X-000?style=for-the-badge&#x26;logo=x&#x26;logoColor=white" alt="Twitter">
 
-© 2025 Parth Yadav • Made with ☕ & 🎨
+
+  <img src="https://img.shields.io/badge/Buy%20Me%20Coffee-FFDD00?style=for-the-badge&#x26;logo=buy-me-a-coffee&#x26;logoColor=black" alt="Buy Me Coffee">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&#x26;size=24&#x26;pause=1000&#x26;color=007ACC&#x26;center=true&#x26;vCenter=true&#x26;width=600&#x26;lines=Built+with+%E2%9D%A4%EF%B8%8F+and+React;Next.js+%26+Tailwind+CSS;Stay+Creative%2C+Keep+Coding!" alt="Typing SVG">
+
+
+  © 2025 Parth Yadav • Made with ☕ & 🎨
+
+```
