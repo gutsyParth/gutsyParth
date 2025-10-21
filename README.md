@@ -17,8 +17,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gutsyParth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthyadav10june)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=globe&logoColor=white)](https://parthyadav.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-yadav-10june/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=globe&logoColor=white)](https://dev-portfolio-rho-eight.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth.10june@gmail.com)
 
 </div>
@@ -41,11 +41,11 @@
 
 <div align="center">
 
-[![Parth's Stats](https://github-readme-stats.vercel.app/api?username=gutsyParth&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Parth's Stats](https://github-readme-stats.vercel.app/api?username=gutsyParth&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=0D1117)](https://github.com/gutsyParth)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gutsyParth&layout=compact&theme=dark&hide_border=true&title_color=007ACC&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gutsyParth&layout=compact&theme=dark&hide_border=true&title_color=007ACC&bg_color=0D1117)](https://github.com/gutsyParth)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=gutsyParth&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=gutsyParth&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/gutsyParth)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gutsyParth&theme=gruvbox&hide_border=true" width="100%"/>
 
@@ -115,13 +115,18 @@
 ## 🔥 Featured Projects  
 
 ### 🧠 My AI — AI Video Conferencing  
-[🔗 Live Demo](#) • [⭐ GitHub Stars](#)
+[🔗 Live Demo](https://ai-call-app-ochre.vercel.app/sign-in) • [⭐ GitHub](https://github.com/gutsyParth/AICallApp)
 
 **My AI Demo**  
 Real-time AI agents • Auto transcripts • Contextual chat • Low-latency video  
 
 **Tech Stack:**  
 Next.js 15 • React 19 • Stream SDK • OpenAI • Tailwind CSS • Shadcn/UI  
+
+---
+
+### 💻 Developer Portfolio  
+[🔗 Live Demo](https://dev-portfolio-rho-eight.vercel.app/) • [📁 GitHub](https://github.com/gutsyParth/dev-portfolio)
 
 ---
 
@@ -136,6 +141,15 @@ Dr. A.I.T.H. Kanpur (2020–2024)
 
 ---
 
+## 🏆 Certifications & Achievements
+
+- [PwC Certificate of Appreciation](https://drive.google.com/file/d/1YHE2aT2uic5R6NBrhmPeWKG-4v8rhkUg/view?usp=drive_link)  
+- [EMSEC Internship Certification](https://drive.google.com/file/d/143UlBW0yEHL__7WUIMDtVFcrG9obe6DD/view?usp=drive_link)  
+- [Flipkart Grid 5.0 Certificate](https://drive.google.com/file/d/1PWmtSCAU1BSeBuXlMCktnRWYiq0ZJauZ/view?usp=drive_link)  
+- [Volkswagen i.mobilothon Certificate](https://drive.google.com/file/d/1XNhyzOl-8mM7TeG3TpKmpz_yASNXbfmG/view?usp=drive_link)
+
+---
+
 ## 🏆 Battle Achievements  
 
 ![Codeforces Specialist](https://img.shields.io/badge/Codeforces-Specialist-1F73FF?style=for-the-badge&logo=codeforces&logoColor=white)
@@ -143,16 +157,17 @@ Dr. A.I.T.H. Kanpur (2020–2024)
 ![LeetCode 1000+](https://img.shields.io/badge/LeetCode-1000%2B-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)
 ![PwC Hackathon Top 30](https://img.shields.io/badge/PwC%20Hackathon-Top%2030-007ACC?style=for-the-badge&logo=pwc&logoColor=white)
 ![Flipkart Grid Pre-Finalist](https://img.shields.io/badge/Flipkart%20Grid-Pre%20Finalist-E74C3C?style=for-the-badge&logo=flipkart&logoColor=white)
-![VW i.mobilothon Pre-Finalist](https://img.shields.io/badge/VW%20i.mobilothon-Pre%20Finalist-192841?style=for-the-badge&logo=volkswagen&logoColor=white)
+![VW i.mobilothon Pre-Finalist](https://img.shields.io/badge-VW%20i.mobilothon-Pre%20Finalist-192841?style=for-the-badge&logo=volkswagen&logoColor=white)
 
 ---
 
 ## 📫 Let's Connect!  
 
-💌 **Email:** [parth.10june@gmail.com](mailto:parth.10june@gmail.com)  
-🌐 **Portfolio:** [parthyadav.dev](https://parthyadav.dev)  
-🐦 **Twitter:** [@parthyadav10june](https://twitter.com/parthyadav10june)  
-💼 **LinkedIn:** [in/parthyadav10june](https://linkedin.com/in/parthyadav10june)
+- 💌 **Email:** [parth.10june@gmail.com](mailto:parth.10june@gmail.com)  
+- 🌐 **Portfolio:** [dev-portfolio-rho-eight.vercel.app](https://dev-portfolio-rho-eight.vercel.app/)  
+- 🐦 **X (Twitter):** [@parth_yadav_x](https://x.com/parth_yadav_x)  
+- 💼 **LinkedIn:** [parth-yadav-10june](https://www.linkedin.com/in/parth-yadav-10june/)  
+- 🐙 **GitHub:** [gutsyParth](https://github.com/gutsyParth)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=gutsyParth&color=007ACC&style=flat-square)
 
@@ -164,7 +179,7 @@ Dr. A.I.T.H. Kanpur (2020–2024)
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://x.com/parth_yadav_x"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <img src="https://img.shields.io/badge/Buy%20Me%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 
   <br/><br/>
