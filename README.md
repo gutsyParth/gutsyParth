@@ -70,7 +70,7 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br>PostgreSQL</td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/><br>AWS</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60"/><br><strong>AWS</strong></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br>Docker</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>Git</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python</td>
@@ -119,12 +119,12 @@ _Bristol, England (Remote) • Dec 2022 - Feb 2024_
 
 ## 🔥 Featured Projects
 
-### 🧠 My AI — AI Video Conferencing
+### 🧠 My AI (AI SaaS)
 
 [🔗 Live Demo](https://ai-call-app-ochre.vercel.app/sign-in) • [⭐ GitHub](https://github.com/gutsyParth/AICallApp)
 
-**My AI Demo**  
-Real-time AI agents • Auto transcripts • Contextual chat • Low-latency video
+**Description:**  
+An AI-driven video conferencing app that enables real-time calls with intelligent agents, automatic summaries, transcripts, and contextual AI chat. It delivers a seamless post-call experience with recordings, transcript search, and responsive UI.
 
 **Tech Stack:**  
 Next.js 15 • React 19 • Stream SDK • OpenAI • Tailwind CSS • Shadcn/UI
@@ -135,12 +135,19 @@ Next.js 15 • React 19 • Stream SDK • OpenAI • Tailwind CSS • Shadcn/UI
 
 [🔗 Live Demo](https://dev-portfolio-rho-eight.vercel.app/) • [📁 GitHub](https://github.com/gutsyParth/dev-portfolio)
 
+**Description:**  
+A modern, responsive portfolio website using React, Tailwind CSS, and Framer Motion with elegant animations and smooth transitions. Integrated a dark/light mode toggle and dynamic project showcases to highlight work interactively.
+
+**Tech Stack:**
+
+React 19 • Tailwind CSS v4 • Framer Motion • Lucide React • React Icons • EmailJS • Vite
+
 ---
 
 ## 🎓 Education
 
 **B.Tech – Computer Science & Engineering**  
-Dr. A.I.T.H. Kanpur (2020–2024)  
+Dr. A.P.J. Abdul Kalam Technical University (2020–2024)  
 ![B.Tech CSE - 8.41 CGPA](https://img.shields.io/badge/B.Tech%20CSE-8.41%20CGPA-4A90E2?style=flat&logo=school&logoColor=white)
 ![CBSE 12th - 97%](https://img.shields.io/badge/CBSE%2012th-97%25-F39C12?style=flat&logo=school&logoColor=white)
 ![CBSE 10th - 10 CGPA](https://img.shields.io/badge/CBSE%2010th-10%20CGPA-F39C12?style=flat&logo=school&logoColor=white)
@@ -160,7 +167,6 @@ Dr. A.I.T.H. Kanpur (2020–2024)
 
 ![Codeforces Specialist](https://img.shields.io/badge/Codeforces-Specialist-1F73FF?style=for-the-badge&logo=codeforces&logoColor=white)
 ![CodeChef 4⭐](https://img.shields.io/badge/CodeChef-4*-FF5722?style=for-the-badge&logo=codechef&logoColor=white)
-![LeetCode 1000+](https://img.shields.io/badge/LeetCode-1000%2B-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)
 ![PwC Hackathon Top 30](https://img.shields.io/badge/PwC%20Hackathon-Top%2030-007ACC?style=for-the-badge&logo=pwc&logoColor=white)
 ![Flipkart Grid Pre-Finalist](https://img.shields.io/badge/Flipkart%20Grid-Pre%20Finalist-E74C3C?style=for-the-badge&logo=flipkart&logoColor=white)
 ![VW i.mobilothon Pre-Finalist](https://img.shields.io/badge/VW%20i.mobilothon-Pre%20Finalist-192841?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/6/6b/Volkswagen_logo_2019.svg&logoColor=white)
