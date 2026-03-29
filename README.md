@@ -192,7 +192,9 @@ Dr. A.P.J. Abdul Kalam Technical University (2020–2024)
 <br/><br/>
 
 <a href="https://x.com/parth_yadav_x"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<img src="https://img.shields.io/badge/Buy%20Me%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+<a href="https://dev-portfolio-rho-eight.vercel.app/">
+  <img src="https://img.shields.io/badge/Buy%20Me%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Portfolio"/>
+</a>
 
 <br/><br/>
 © 2025 **Parth Yadav** • Made with ☕ & 🎨
