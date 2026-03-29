@@ -95,10 +95,10 @@ _Bengaluru, India • Feb 2024 - Present_
 <img src="https://img.shields.io/badge/2x%20Faster-FF6B6B?style=flat-square" />
 </div>
 
-- 🎯 **NOC Dashboards**: React 19 + Next.js 15 + AWS Lambda (50+ analysts)
-- 🔐 **Security**: JWT/OAuth 2.0/RBAC → **100% unauthorized access eliminated**
-- 🚀 **CI/CD**: 92% coverage → **15% fewer defects**
-- ⚡ **Performance**: 2x faster incident mitigation (Microsoft Defender + EventBridge)
+- 🎯 **Full-Stack Systems**: Developed scalable React + Next.js dashboards used across enterprise retail, fintech, and logistics domains
+- ⚡ **Performance Engineering**: Optimized APIs with Redis caching, PostgreSQL indexing, and pagination, improving response efficiency
+- 🔄 **Real-Time Features**: Built WebSocket-based live updates eliminating manual refresh for system and shipment tracking
+- ☁️ **Cloud Integration**: Implemented AWS S3 pre-signed uploads and leveraged TanStack Query to reduce redundant API calls and enhance UX
 
 ### **Software Developer Intern @ EMSEC** 🌍
 
