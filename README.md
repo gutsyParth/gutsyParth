@@ -48,7 +48,7 @@ Outside work, I build **distributed, event-driven systems** and full-stack appli
 
 ## 💼 Professional Experience
 
-### Associate 2 — PwC Acceleration Center India
+### Associate 2 - PwC Acceleration Center India
 
 *Aug 2025 – Present · Bengaluru, India · Hybrid*
 
@@ -59,7 +59,7 @@ Outside work, I build **distributed, event-driven systems** and full-stack appli
 - Contribute to **Drools-based business rules** for lending eligibility checks, risk conditions, and explainable risk flags.
 - Integrate REST APIs and backend workflows connecting document validation, rule evaluation, and downstream lending operations; support integration testing and defect resolution.
 
-### Associate — PwC Acceleration Center India
+### Associate - PwC Acceleration Center India
 
 *Aug 2024 – Jul 2025 · Bengaluru, India · Hybrid*
 
@@ -71,13 +71,13 @@ Outside work, I build **distributed, event-driven systems** and full-stack appli
 - Contributed to a broader **quotation-automation initiative that reduced manual quote-preparation effort by approximately 40%** (project-level improvement).
 - Supported UAT of batch workflows that achieved **over 95% batch completion reliability** (team-level result).
 
-### Intern — PwC Acceleration Center India
+### Intern - PwC Acceleration Center India
 
 *Feb 2024 – Jul 2024 · Bengaluru, India · Hybrid*
 
 - Began my journey at PwC as a software engineering intern before transitioning to a full-time Associate role.
 
-### Software Development Engineer Intern — EMSEC
+### Software Development Engineer Intern - EMSEC
 
 *Dec 2022 – Jul 2024 · Remote*
 
@@ -89,7 +89,7 @@ Outside work, I build **distributed, event-driven systems** and full-stack appli
 
 ## 🔥 Featured Projects
 
-### 🔗 LinkedIn System — Event-Driven Microservices Backend
+### 🔗 LinkedIn System - Event-Driven Microservices Backend
 
 [📁 GitHub Repository](https://github.com/gutsyParth/linkedin)
 
@@ -99,7 +99,7 @@ A **LinkedIn-inspired professional networking backend** built with **six indepen
 
 ---
 
-### 🍔 Feastly — Microservices-Based Food Delivery Platform
+### 🍔 Feastly - Microservices-Based Food Delivery Platform
 
 [🔗 Live Demo](https://feastly-psi.vercel.app/) · [📁 GitHub Repository](https://github.com/gutsyParth/Feastly)
 
@@ -109,7 +109,7 @@ A **full-stack food delivery platform** built around distributed services and ev
 
 ---
 
-### 🧠 My AI — AI-Powered Video Conferencing Platform
+### 🧠 My AI - AI-Powered Video Conferencing Platform
 
 [🔗 Live Demo](https://ai-call-app-ochre.vercel.app/sign-in) · [📁 GitHub Repository](https://github.com/gutsyParth/AICallApp)
 
@@ -119,7 +119,7 @@ An **AI-powered meeting platform** combining live video calls with **real-time A
 
 ---
 
-### 💬 Whispr — Secure Real-Time Chat Platform
+### 💬 Whispr - Secure Real-Time Chat Platform
 
 [🔗 Live Demo](https://whispr-flame.vercel.app/) · [📁 GitHub Repository](https://github.com/gutsyParth/whispr)
 
@@ -131,7 +131,7 @@ A **privacy-focused, real-time chat platform** for temporary one-to-one conversa
 
 ## 🎓 Education
 
-**B.Tech — Computer Science & Engineering**  
+**B.Tech - Computer Science & Engineering**  
 Dr. A.P.J. Abdul Kalam Technical University · 2020–2024  
 ![B.Tech CSE - 8.41 CGPA](https://img.shields.io/badge/B.Tech%20CSE-8.41%20CGPA-4A90E2?style=flat)
 ![CBSE 12th - 97%](https://img.shields.io/badge/CBSE%2012th-97%25-F39C12?style=flat)
@@ -140,10 +140,10 @@ Dr. A.P.J. Abdul Kalam Technical University · 2020–2024
 
 ## 🏆 Achievements
 
-- **GATE Computer Science 2024 — All India Rank 4,067**; qualified GATE on **three occasions**.
-- **PwC Fiercest Competitor 2.0 — 2023 National Finalist:** selected among **30 individual finalists from across India** for PwC AC India's cyber hackathon, featuring application-development and security-focused challenges.
-- **JEE Main and JEE Advanced — Qualified.**
-- **Codeforces — Specialist**; **CodeChef — 4★**.
+- **GATE Computer Science 2024 - All India Rank 4,067**; qualified GATE on **three occasions**.
+- **PwC Fiercest Competitor 2.0 - 2023 National Finalist:** selected among **30 individual finalists from across India** for PwC AC India's cyber hackathon, featuring application-development and security-focused challenges.
+- **JEE Main and JEE Advanced - Qualified.**
+- **Codeforces - Specialist**; **CodeChef - 4★**.
 - **Academic distinction:** ranked first across school branches in Class 10 and Class 12, received recurring merit scholarships, and was recognized among city toppers in newspaper coverage and interviews.
 
 ---
@@ -174,6 +174,6 @@ Dr. A.P.J. Abdul Kalam Technical University · 2020–2024
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gutsyParth&color=007ACC&style=flat-square)
 
-*Building reliable backends, useful products, and better systems—one project at a time.*
+*Building reliable backends, useful products, and better systems-one project at a time.*
 
 </div>
