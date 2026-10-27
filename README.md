@@ -1,200 +1,179 @@
 <div align="center">
 
-# 👋 **Hey there, I'm Parth Yadav**
+# 👋 Hey there, I'm Parth Yadav
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Architecture;Microservices+%26+Cloud;1000%2B+DSA+Problems+Solved;Codeforces+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%26+Full+Stack+Development;Java+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;Microservices+%26+Distributed+Systems;Codeforces+Specialist" alt="Typing SVG" />
+
+<p>
+  <img src="https://img.shields.io/badge/Backend%20Engineering-007ACC?style=for-the-badge" alt="Backend Engineering" />
+  <img src="https://img.shields.io/badge/Microservices-45B7D1?style=for-the-badge" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Full%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack" />
 </p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/2%2B%20Years-FF6B6B?style=for-the-badge&logo=clock&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-4ECDC4?style=for-the-badge&logo=codesandbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-45B7D1?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</div>
-
-<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gutsyParth)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-yadav-sde/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=globe&logoColor=white)](https://dev-portfolio-rho-eight.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-portfolio-rho-eight.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth.10june@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-## 🚀 **Currently Building**
+I'm a **Software Engineer at PwC Acceleration Center India**, working across **backend and full-stack development** with a focus on **Java, Spring Boot, Python, FastAPI, React, and SQL**.
 
-<img src="https://img.shields.io/badge/Enterprise%20Systems-3498DB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Asynchronous%20APIs-2ECC71?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-F1C40F?style=for-the-badge&logo=spring&logoColor=black" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20%26%20Docker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+My professional experience spans two enterprise domains:
 
-**@ PwC Acceleration Center India** • Architecting scalable enterprise applications, event-driven batch-processing engines, and automated rule-engine microservices for automotive and lending risk domains.
+- **Lending risk and underwriting (current):** Java and Spring Boot backend services, loan-document processing and validation with ABBYY FlexiCapture, and Drools-based lending rules.
+- **Automotive quoting (previous):** Python, FastAPI, React, PostgreSQL, and Celery/Redis workflows for vehicle pricing, leasing, financing, fleet customers, and asynchronous quotation batches.
 
-</div>
+Outside work, I build **distributed, event-driven systems** and full-stack applications, exploring Kafka, Redis, Elasticsearch, RabbitMQ, cloud services, and real-time AI integrations.
 
 ---
 
-## 📊 **My GitHub Galaxy**
+## 🛠️ Tech Stack
 
-<div align="center">
-
-[![Parth's Stats](https://github-readme-stats.vercel.app/api?username=gutsyParth&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=0D1117)](https://github.com/gutsyParth)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gutsyParth&layout=compact&theme=dark&hide_border=true&title_color=007ACC&bg_color=0D1117)](https://github.com/gutsyParth)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=gutsyParth&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/gutsyParth)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gutsyParth&theme=gruvbox&hide_border=true" width="100%"/>
-
-</div>
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Java, Python, JavaScript, TypeScript, SQL |
+| **Backend** | Spring Boot, FastAPI, Node.js, Express.js, Django, ElysiaJS, REST APIs |
+| **Frontend** | React.js, Next.js, Tailwind CSS |
+| **Databases & search** | PostgreSQL, MySQL, MongoDB, Elasticsearch |
+| **Messaging & caching** | Apache Kafka, RabbitMQ, Celery, Redis |
+| **Cloud & tooling** | AWS S3, AWS EC2, Microsoft Azure, Docker, Git, Linux |
+| **Engineering practices** | Microservices, asynchronous processing, API development, authentication, transactional workflows, integration testing |
 
 ---
 
-## 🛠 **Tech Arsenal**
+## 💼 Professional Experience
 
-<table align="center">
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br>React</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/><br>Next.js</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br>TypeScript</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60"/><br>Tailwind</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/><br>Node.js</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/><br>Express</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/><br>MongoDB</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br>PostgreSQL</td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60"/><br>FastAPI</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/><br>Java</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/><br>Spring Boot</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60"/><br>Redis</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="60"/><br>RabbitMQ</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br>Docker</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60"/><br><strong>AWS</strong></td>
-</tr>
-</table>
+### Associate 2 — PwC Acceleration Center India
 
----
+*Aug 2025 – Present · Bengaluru, India · Hybrid*
 
-## 💼 **Professional Journey**
+**Lending Risk Detection Platform | Java, Spring Boot, ABBYY FlexiCapture, Drools**
 
-### **Software Engineer (Associate 2) @ PwC Acceleration Center India** 🏢
+- Develop and maintain **Java and Spring Boot backend services** supporting loan-document processing, risk assessment, and underwriting workflows.
+- Work on **document extraction and validation** with ABBYY FlexiCapture, including field validation, data normalization, and structured processing of loan application information.
+- Contribute to **Drools-based business rules** for lending eligibility checks, risk conditions, and explainable risk flags.
+- Integrate REST APIs and backend workflows connecting document validation, rule evaluation, and downstream lending operations; support integration testing and defect resolution.
 
-_Bangalore, India • Feb 2024 - Present_
+### Associate — PwC Acceleration Center India
 
-<div align="center">
-<img src="https://img.shields.io/badge/95%25%20Batch%20Reliability-007ACC?style=flat-square" />
-<img src="https://img.shields.io/badge/40%25%20Faster%20Quotes-28A745?style=flat-square" />
-<img src="https://img.shields.io/badge/35%25%20Less%20Verification-FF6B6B?style=flat-square" />
-</div>
+*Aug 2024 – Jul 2025 · Bengaluru, India · Hybrid*
 
-- 🎯 **Full-Stack Architecture**: Architected enterprise applications for automotive quoting and lending risk domains using React.js, Python FastAPI, and Java Spring Boot.
-- ⚡ **Asynchronous Processing**: Engineered a scalable batch-processing engine using FastAPI, Celery, and Redis to process large datasets with row-level validation, hitting 95%+ completion reliability.
-- 🔄 **Microservices & Rule Engines**: Built Spring Boot microservices integrated with ABBYY FlexiCapture (OCR) and a Drools rule engine to automate lending risk detection.
-- ☁️ **System Design & Databases**: Designed robust PostgreSQL schemas for pricing master data and optimized modular quote calculations via REST APIs.
+**Automotive Quoting Platform | Python, FastAPI, React.js, PostgreSQL, Celery, Redis**
 
-### **Software Engineer Intern / Contract Engineer @ EMSEC Pvt. Ltd.** 🌍
+- Contributed to an enterprise quotation platform for **vehicle pricing, leasing, financing, and fleet-customer workflows**.
+- Developed and maintained **asynchronous bulk-quotation processing** with Celery and Redis, covering file validation, row-level processing, background execution, and batch-status tracking.
+- Improved batch-processing robustness through **SQLAlchemy session and transaction management, idempotent processing, safer retries, partial-failure handling, and regression testing**.
+- Contributed to a broader **quotation-automation initiative that reduced manual quote-preparation effort by approximately 40%** (project-level improvement).
+- Supported UAT of batch workflows that achieved **over 95% batch completion reliability** (team-level result).
 
-_Bristol, UK (Remote) • Dec 2022 - Jul 2024_
+### Intern — PwC Acceleration Center India
 
-<div align="center">
-<img src="https://img.shields.io/badge/Debian%20Linux-A81D33?style=flat-square&logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Security%20Dashboards-3498DB?style=flat-square" />
-</div>
+*Feb 2024 – Jul 2024 · Bengaluru, India · Hybrid*
 
-- 🤖 **Backend Engineering**: Engineered REST APIs and dynamic network interface detection tools using Python and Django, enhancing software deployment reliability across remote Linux environments.
-- 📊 **Monitoring Dashboards**: Built scalable full-stack security monitoring dashboards, streamlining threat investigation workflows and automated event-driven alert delivery.
+- Began my journey at PwC as a software engineering intern before transitioning to a full-time Associate role.
+
+### Software Development Engineer Intern — EMSEC
+
+*Dec 2022 – Jul 2024 · Remote*
+
+- Developed **Python/Django backend APIs** for network monitoring and dynamic network-interface detection in Debian Linux environments.
+- Built **automated email alerting and reporting workflows** for monitoring events and operational notifications.
+- Improved device lookup and filtering workflows; worked with Linux infrastructure, deployment validation, and **Qt Creator/C++ desktop tooling**.
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🍔 Feastly — Microservices-Based Food Delivery Platform
+### 🔗 LinkedIn System — Event-Driven Microservices Backend
 
-[🔗 Live Demo](https://ai-call-app-ochre.vercel.app/sign-in) • [⭐ GitHub](https://github.com/gutsyParth/AICallApp)
+[📁 GitHub Repository](https://github.com/gutsyParth/linkedin)
 
-**Description:**  
-An enterprise-grade, scalable food delivery platform engineered with a distributed architecture. Implemented RBAC authentication via JWT/OAuth, real-time order sync, and a dedicated rider tracking service.
+A **LinkedIn-inspired professional networking backend** built with **six independently running Java/Spring Boot services**: API Gateway, User, Post, Feed, Search, and Notification. Implements gateway-level JWT validation, REST communication through OpenFeign, **Kafka-based asynchronous events**, Redis-backed feed caching, and **Elasticsearch indexing and search** for users and posts.
 
-**Tech Stack:**  
-React • Node.js • Express • MongoDB • RabbitMQ • Socket.IO • Stripe • Docker • AWS EC2
+**Tech:** Java 17 · Spring Boot · Spring Cloud Gateway · OpenFeign · Kafka · Redis · Elasticsearch · MySQL · JPA/Hibernate · JWT · AWS S3 · Docker Compose
 
 ---
 
-### 💬 Whispr — Secure Real-Time Chat Application
+### 🍔 Feastly — Microservices-Based Food Delivery Platform
 
-[🔗 Live Demo](https://whispr-flame.vercel.app/) • [📁 GitHub](https://github.com/gutsyParth/whispr)
+[🔗 Live Demo](https://feastly-psi.vercel.app/) · [📁 GitHub Repository](https://github.com/gutsyParth/Feastly)
 
-**Description:**  
-A privacy-centric, low-latency chat application supporting temporary, anonymous communication. Leveraged ephemeral room state management and automated session cleanup.
+A **full-stack food delivery platform** built around distributed services and event-driven workflows. Supports **role-based access control, JWT and Google OAuth authentication, restaurant and rider management, real-time order updates**, and payment integration. Uses RabbitMQ for inter-service messaging and Socket.IO for live updates and rider tracking.
 
-**Tech Stack:**  
-Next.js • TypeScript • Redis • ElysiaJS • WebSockets • TailwindCSS
+**Tech:** React · TypeScript · Node.js · Express.js · MongoDB · Redis · RabbitMQ · Socket.IO · Razorpay/Stripe · Docker · AWS
 
 ---
 
 ### 🧠 My AI — AI-Powered Video Conferencing Platform
 
-[🔗 Live Demo](https://ai-call-app-ochre.vercel.app/sign-in) • [📁 GitHub](https://github.com/gutsyParth/AICallApp)
+[🔗 Live Demo](https://ai-call-app-ochre.vercel.app/sign-in) · [📁 GitHub Repository](https://github.com/gutsyParth/AICallApp)
 
-**Description:**  
-A high-performance video conferencing application featuring live meeting workflows, real-time audio transcripts, and intelligent AI-generated summaries via asynchronous integrations.
+An **AI-powered meeting platform** combining live video calls with **real-time AI agents inside the meeting**, rather than limiting AI to post-call processing. Includes **AI-assisted conversations, meeting transcripts, recordings, structured summaries, and searchable post-call information**.
 
-**Tech Stack:**  
-React • TypeScript • REST APIs • WebRTC
+**Tech:** React · TypeScript · Stream Video SDK · OpenAI Realtime API · REST APIs
+
+---
+
+### 💬 Whispr — Secure Real-Time Chat Platform
+
+[🔗 Live Demo](https://whispr-flame.vercel.app/) · [📁 GitHub Repository](https://github.com/gutsyParth/whispr)
+
+A **privacy-focused, real-time chat platform** for temporary one-to-one conversations. Supports **private room access, anonymous usernames, shareable room links, and automatic room expiration** using Redis-based ephemeral state and TTL cleanup.
+
+**Tech:** Next.js · TypeScript · ElysiaJS · WebSockets · Redis · TanStack Query
 
 ---
 
 ## 🎓 Education
 
-**B.Tech – Computer Science & Engineering**  
-Dr. A.P.J. Abdul Kalam Technical University (2020–2024)  
-![B.Tech CSE - 8.41 CGPA](https://img.shields.io/badge/B.Tech%20CSE-8.41%20CGPA-4A90E2?style=flat&logo=school&logoColor=white)
-![CBSE 12th - 97%](https://img.shields.io/badge/CBSE%2012th-97%25-F39C12?style=flat&logo=school&logoColor=white)
+**B.Tech — Computer Science & Engineering**  
+Dr. A.P.J. Abdul Kalam Technical University · 2020–2024  
+![B.Tech CSE - 8.41 CGPA](https://img.shields.io/badge/B.Tech%20CSE-8.41%20CGPA-4A90E2?style=flat)
+![CBSE 12th - 97%](https://img.shields.io/badge/CBSE%2012th-97%25-F39C12?style=flat)
 
 ---
 
-## 🏆 Battle Achievements
+## 🏆 Achievements
 
-![Codeforces Specialist](https://img.shields.io/badge/Codeforces-Specialist-1F73FF?style=for-the-badge&logo=codeforces&logoColor=white)
-![CodeChef 4⭐](https://img.shields.io/badge/CodeChef-4*-FF5722?style=for-the-badge&logo=codechef&logoColor=white)
-![PwC Hackathon Top 30](https://img.shields.io/badge/PwC%20Hackathon-Top%2030-007ACC?style=for-the-badge&logo=pwc&logoColor=white)
-![GATE Qualified 3x](https://img.shields.io/badge/GATE%20Qualified-3x%20(CS%20%26%20DA)-8E44AD?style=for-the-badge)
-
----
-
-## 📫 Let's Connect!
-
-- 💌 **Email:** [parth.10june@gmail.com](mailto:parth.10june@gmail.com)
-- 🌐 **Portfolio:** [dev-portfolio-rho-eight.vercel.app](https://dev-portfolio-rho-eight.vercel.app/)
-- 🐦 **X (Twitter):** [@parth_yadav_x](https://x.com/parth_yadav_x)
-- 💼 **LinkedIn:** [parth-yadav-sde](https://www.linkedin.com/in/parth-yadav-sde/)
-- 🐙 **GitHub:** [gutsyParth](https://github.com/gutsyParth)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=gutsyParth&color=007ACC&style=flat-square)
+- **GATE Computer Science 2024 — All India Rank 4,067**; qualified GATE on **three occasions**.
+- **PwC Fiercest Competitor 2.0 — 2023 National Finalist:** selected among **30 individual finalists from across India** for PwC AC India's cyber hackathon, featuring application-development and security-focused challenges.
+- **JEE Main and JEE Advanced — Qualified.**
+- **Codeforces — Specialist**; **CodeChef — 4★**.
+- **Academic distinction:** ranked first across school branches in Class 10 and Class 12, received recurring merit scholarships, and was recognized among city toppers in newspaper coverage and interviews.
 
 ---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Solutions;Built+with+%E2%9D%A4%EF%B8%8F+and+Coffee;Stay+Creative%2C+Keep+Coding!" alt="Typing SVG"/>
 
-<br/><br/>
+[![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gutsyParth&show_icons=true&theme=dark&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=FFFFFF&bg_color=0D1117)](https://github.com/gutsyParth)
 
-<a href="https://x.com/parth_yadav_x"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://dev-portfolio-rho-eight.vercel.app/">
-  <img src="https://img.shields.io/badge/Buy%20Me%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Portfolio"/>
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gutsyParth&layout=compact&theme=dark&hide_border=true&title_color=007ACC&bg_color=0D1117)](https://github.com/gutsyParth)
 
-<br/><br/>
-© 2026 **Parth Yadav** • Made with ☕ & 💻
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gutsyParth&theme=github-dark&hide_border=true" width="100%" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** [parth.10june@gmail.com](mailto:parth.10june@gmail.com)
+- **LinkedIn:** [linkedin.com/in/parth-yadav-sde](https://www.linkedin.com/in/parth-yadav-sde/)
+- **GitHub:** [github.com/gutsyParth](https://github.com/gutsyParth)
+- **Portfolio:** [dev-portfolio-rho-eight.vercel.app](https://dev-portfolio-rho-eight.vercel.app/)
+- **X:** [@parth_yadav_x](https://x.com/parth_yadav_x)
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=gutsyParth&color=007ACC&style=flat-square)
+
+*Building reliable backends, useful products, and better systems—one project at a time.*
 
 </div>
